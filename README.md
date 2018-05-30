@@ -7,7 +7,7 @@ This repository contains the code and data needed to reproduce the text processi
 
 [Download][1] or clone the repository then run the scripts using the `reflections_pollination_ecology.Rproj` file.
 
-[1]: 
+[1]: https://github.com/idiv-biodiversity/reflections_pollination_ecology/archive/master.zip
 
 
 ### R script files
