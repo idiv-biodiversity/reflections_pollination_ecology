@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+*.html
+
+packages/lib
+packages/archive
+R/archive
+*/*/archive
+data/temp
+output/archive
+output/*/*.csv
