@@ -12,18 +12,18 @@ attached base packages:
 [1] stats     graphics  grDevices utils     datasets  methods   base     
 
 other attached packages:
- [1] dplyr_0.7.4         scales_0.5.0        classInt_0.1-24     pluralize_0.1.0     ggraph_1.0.0       
- [6] igraph_1.1.2        tidygraph_1.1.0     tidyr_0.7.2         tidytext_0.1.5      ggplot2_2.2.1      
-[11] data.table_1.10.4-3 wordcloud_2.5       RColorBrewer_1.1-2  tm_0.7-3            NLP_0.1-11         
-[16] versions_0.3       
+ [1] pluralize_0.1.0     wordcloud_2.5       tm_0.7-3            NLP_0.1-11          tidytext_0.1.5     
+ [6] tidyr_0.7.2         tidygraph_1.1.0     scales_0.5.0        RColorBrewer_1.1-2  igraph_1.1.2       
+[11] ggraph_1.0.0        ggplot2_2.2.1       dplyr_0.7.4         devtools_1.13.4     data.table_1.10.4-3
+[16] classInt_0.1-24    
 
 loaded via a namespace (and not attached):
  [1] slam_0.1-40       purrr_0.2.4       reshape2_1.4.3    lattice_0.20-35   V8_1.5            colorspace_1.3-2 
  [7] SnowballC_0.5.1   viridisLite_0.3.0 yaml_2.1.16       rlang_0.1.4       e1071_1.6-8       foreign_0.8-69   
-[13] glue_1.2.0        tweenr_0.1.5      bindrcpp_0.2      bindr_0.1         plyr_1.8.4        stringr_1.3.0    
-[19] munsell_0.4.3     gtable_0.2.0      psych_1.7.8       class_7.3-14      parallel_3.4.3    curl_3.1         
-[25] broom_0.4.3       tokenizers_0.1.4  Rcpp_0.12.15      udunits2_0.13     jsonlite_1.5      gridExtra_2.3    
-[31] mnormt_1.5-5      ggforce_0.1.1     digest_0.6.13     stringi_1.1.6     ggrepel_0.7.0     grid_3.4.3       
-[37] tools_3.4.3       magrittr_1.5      lazyeval_0.2.1    tibble_1.3.4      janeaustenr_0.1.5 pkgconfig_2.0.1  
-[43] MASS_7.3-47       Matrix_1.2-12     xml2_1.1.1        assertthat_0.2.0  viridis_0.4.0     R6_2.2.2         
-[49] units_0.5-1       nlme_3.1-131      compiler_3.4.3 
+[13] glue_1.2.0        withr_2.1.1       tweenr_0.1.5      bindrcpp_0.2      bindr_0.1         plyr_1.8.4       
+[19] stringr_1.3.0     munsell_0.4.3     gtable_0.2.0      psych_1.7.8       memoise_1.1.0     curl_3.1         
+[25] parallel_3.4.3    class_7.3-14      broom_0.4.3       tokenizers_0.1.4  Rcpp_0.12.15      udunits2_0.13    
+[31] jsonlite_1.5      gridExtra_2.3     mnormt_1.5-5      ggforce_0.1.1     digest_0.6.13     stringi_1.1.6    
+[37] ggrepel_0.7.0     grid_3.4.3        tools_3.4.3       magrittr_1.5      lazyeval_0.2.1    tibble_1.3.4     
+[43] janeaustenr_0.1.5 pkgconfig_2.0.1   MASS_7.3-47       Matrix_1.2-12     xml2_1.1.1        assertthat_0.2.0 
+[49] viridis_0.4.0     R6_2.2.2          units_0.5-1       nlme_3.1-131      compiler_3.4.3   
